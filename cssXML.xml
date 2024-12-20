@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<library>
+    <book>
+        <title>XML for Beginners</title>
+        <author>Akber</author>
+    </book>
+    <book>
+        <title>Advanced XML</title>
+        <author>Akber</author>
+    </book>
+</library>
